@@ -1,0 +1,11 @@
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.BLL\bin\Debug\CadastroPessoa.BLL.dll
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.BLL\bin\Debug\CadastroPessoa.BLL.pdb
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.BLL\bin\Debug\CadastroPessoa.DAL.dll
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.BLL\bin\Debug\CadastroPessoa.DTO.dll
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.BLL\bin\Debug\CadastroPessoa.DAL.pdb
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.BLL\bin\Debug\CadastroPessoa.DTO.pdb
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.BLL\obj\Debug\CadastroPessoa.BLL.csprojAssemblyReference.cache
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.BLL\obj\Debug\CadastroPessoa.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.BLL\obj\Debug\CadastroPessoa.BLL.csproj.CopyComplete
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.BLL\obj\Debug\CadastroPessoa.BLL.dll
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.BLL\obj\Debug\CadastroPessoa.BLL.pdb

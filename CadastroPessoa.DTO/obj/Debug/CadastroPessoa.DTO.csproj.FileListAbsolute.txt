@@ -1,0 +1,6 @@
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DTO\bin\Debug\CadastroPessoa.DTO.dll
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DTO\bin\Debug\CadastroPessoa.DTO.pdb
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DTO\obj\Debug\CadastroPessoa.DTO.csprojAssemblyReference.cache
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DTO\obj\Debug\CadastroPessoa.DTO.csproj.CoreCompileInputs.cache
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DTO\obj\Debug\CadastroPessoa.DTO.dll
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DTO\obj\Debug\CadastroPessoa.DTO.pdb

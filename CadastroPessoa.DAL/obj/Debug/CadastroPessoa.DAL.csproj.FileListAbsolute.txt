@@ -1,0 +1,9 @@
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DAL\bin\Debug\CadastroPessoa.DAL.dll
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DAL\bin\Debug\CadastroPessoa.DAL.pdb
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DAL\bin\Debug\CadastroPessoa.DTO.dll
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DAL\bin\Debug\CadastroPessoa.DTO.pdb
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DAL\obj\Debug\CadastroPessoa.DAL.csprojAssemblyReference.cache
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DAL\obj\Debug\CadastroPessoa.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DAL\obj\Debug\CadastroPessoa.DAL.csproj.CopyComplete
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DAL\obj\Debug\CadastroPessoa.DAL.dll
+C:\Users\dufan\source\repos\CadastroPessoa\CadastroPessoa.DAL\obj\Debug\CadastroPessoa.DAL.pdb
